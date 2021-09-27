@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Braian 👋
-<div style="display: inline-block">
+<div align="center" style="display: inline-block">
   <a href="https://github.com/BraianNicolao">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BraianNicolao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianNicolao&layout=compact&langs_count=7&theme=dark"/>
